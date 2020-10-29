@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Welcome](https://assets.entrepreneur.com/soy/Consulta/GIFs/nimoy_sheldon.gif)  
+![Hello](https://assets.entrepreneur.com/soy/Consulta/GIFs/nimoy_sheldon.gif "Hello")
 -------------------------
 <!--
 **Ossiel-VR/Ossiel-VR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
