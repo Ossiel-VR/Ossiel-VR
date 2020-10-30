@@ -1,7 +1,7 @@
 # Hello Folks 👽🖖
 <img src="https://media.giphy.com/media/dKVvUk2oH8x2g/giphy.gif" width="300px"/>
 
-
+---------------------
 
 ###  About me
 ```c
@@ -16,7 +16,7 @@ int main(void)
     char FirstLanguage[] = "C";
     char SecondLanguages[] = ['C++', 'Python', 'Js'];
     char NewLanguages[] = ['Go', 'C#', 'PHP'];
-    char Interests[] = ['Embedded', 'Electronic', 'Software', 'ML', 'CV', 'IoT']
+    char Interests[] = ['Embedded', 'Electronic', 'Software', 'ML', 'CV', 'IoT'];
 
     printf("Live long and prosper");
 
@@ -27,4 +27,5 @@ int main(void)
 -------------------
 
 ###### Follow me 🛸
-<img src="https://www.flaticon.es/svg/static/icons/svg/60/60580.svg" width="20"/>
+
+<img src="https://www.flaticon.es/svg/static/icons/svg/60/60580.svg" width="20"/>  <img src="https://www.flaticon.es/svg/static/icons/svg/123/123718.svg" width="20"/>  <img src="https://www.flaticon.es/premium-icon/icons/svg/3536/3536797.svg" width="20"/>
