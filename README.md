@@ -28,4 +28,5 @@ int main(void)
 
 ###### Follow me 🛸
 
-<img src="https://www.flaticon.es/svg/static/icons/svg/60/60580.svg" width="20"/>  <img src="https://www.flaticon.es/svg/static/icons/svg/123/123718.svg" width="20"/>  <img src="https://www.flaticon.es/premium-icon/icons/svg/3536/3536797.svg" width="20"/>
+<img src="https://www.flaticon.es/svg/static/icons/svg/60/60580.svg" width="20"/>  <img src="https://www.flaticon.es/svg/static/icons/svg/123/123718.svg" width="20"/>  
+<img src="https://www.shareicon.net/data/128x128/2016/06/20/607333_quora_4096x4096.png" width="20"/>
