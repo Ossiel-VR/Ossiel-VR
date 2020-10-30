@@ -1,5 +1,5 @@
-# 🖖 Hello folks 👽🛸![po]
-(https://media.giphy.com/media/dKVvUk2oH8x2g/giphy.gif "po")
+# 🖖 Hello folks 👽🛸
+![po](https://media.giphy.com/media/dKVvUk2oH8x2g/giphy.gif "po")
 
 ----------------------------
 
