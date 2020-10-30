@@ -26,6 +26,6 @@ int main(void)
 
 -------------------
 
-###### Follow me 🛸
 
-<img src="https://www.flaticon.es/svg/static/icons/svg/60/60580.svg" width="20"/>  <img src="https://www.flaticon.es/svg/static/icons/svg/123/123718.svg" width="20"/> <img src="https://github.com/Ossiel-VR/Ossiel-VR/blob/backstage_test/607333_quora_4096x4096.png" width="20"/>
+###### Follow me 🛸
+[<img src="https://www.flaticon.es/svg/static/icons/svg/60/60580.svg" width="20"/>](https://twitter.com/Ossiel_VR) [<img src="https://www.flaticon.es/svg/static/icons/svg/123/123718.svg" width="20"/>](https://www.linkedin.com/in/ossielvr/) [<img src="https://github.com/Ossiel-VR/Ossiel-VR/blob/backstage_test/607333_quora_4096x4096.png" width="20"/>](https://es.quora.com/notifications)
