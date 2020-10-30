@@ -3,9 +3,7 @@
 
 -----------
 
-------------
-
-## About me 🛸 
+### About me 🛸 
 ![loop](https://media.giphy.com/media/k5zu35npVsYfgZQwwl/giphy.gif "loop")
 
 #####  i´m a bachelor
