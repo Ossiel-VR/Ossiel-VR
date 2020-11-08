@@ -14,9 +14,9 @@ int main(void)
     char University[] = "ITSPR";
     char Career[] = "Electronics Engineering";
     char FirstLanguage[] = "C";
-    char SecondLanguages[] = ['C++', 'Python', 'Js'];
-    char NewLanguages[] = ['Go', 'C#', 'PHP'];
-    char Interests[] = ['Embedded', 'Electronic', 'Software', 'ML', 'CV', 'IoT'];
+    char SecondLanguages[] = {'C++', 'Python', 'Js'};
+    char NewLanguages[] = {'Go', 'C#', 'PHP'};
+    char Interests[] = {'Embedded', 'Electronic', 'Software', 'ML', 'CV', 'IoT'};
 
     printf("Live long and prosper");
 
